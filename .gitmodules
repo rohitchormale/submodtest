@@ -1,0 +1,6 @@
+[submodule "modules/flask-examples"]
+	path = modules/flask-examples
+	url = https://github.com/rohitchormale/flask-examples.git
+[submodule "modules/text-analyzer"]
+	path = modules/text-analyzer
+	url = https://github.com/rohitchormale/text-analyzer.git
